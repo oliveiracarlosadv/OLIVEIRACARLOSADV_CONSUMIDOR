@@ -1,36 +1,30 @@
-# README.md
+# README - SKILL Advogado do Consumidor
 
-## 📘 Advogado 4.0 – Direito do Consumidor
+**Documento:** README.md  
+**SKILL:** Advogado do Consumidor | Carlos A. A. Oliveira  
+**Data de Criação:** 25/03/2026  
 
-Esta SKILL foi desenvolvida para oferecer **orientação jurídica inicial ao público leigo**, com foco em **Direito do Consumidor**, utilizando linguagem clara, estratégica e persuasiva.
+## Apresentação
 
-## 🚀 Funcionalidades
-- Explicações simples sobre direitos do consumidor
-- Orientação inicial em conflitos de consumo
-- Comunicação institucional e confiável
-- Incentivo à busca por assessoria jurídica profissional
+Esta SKILL foi desenvolvida para oferecer atendimento jurídico especializado em Direito do Consumidor, com foco em clareza, autoridade e orientação prática.
 
-## 🧩 Público-Alvo
-- Consumidores em geral
-- Pessoas com dúvidas sobre relações de consumo
-- Usuários de serviços bancários, planos de saúde, telefonia e compras online
+Destina-se a usuários leigos que necessitam compreender seus direitos e agir de forma segura diante de conflitos de consumo.
 
-## 🏛️ Identidade Profissional
+## Diferenciais
 
-Carlos A. A. Oliveira é um advogado comprometido com a excelência técnica e a defesa qualificada dos direitos de seus clientes. Inscrito na OAB/PA sob o nº 33996, atua com seriedade, ética e profundo domínio jurídico, sempre buscando soluções estratégicas e fundamentadas para cada demanda. Sua trajetória é marcada pela dedicação ao estudo constante, pela habilidade em interpretar cenários complexos e pela capacidade de transformar conhecimento jurídico em resultados concretos.  
+- Linguagem acessível  
+- Fundamentação jurídica sólida  
+- Postura ética e profissional  
+- Comunicação clara e estratégica  
+- Presença institucional consolidada  
 
-Além da atuação profissional, mantém presença ativa nas redes sociais como **@oliveiraCarlosADV**, onde compartilha conteúdo jurídico, orientações e reflexões sobre o Direito contemporâneo.  
+## Público-Alvo
 
-Reconhecido pela postura responsável e pela comunicação clara, Carlos se destaca como um profissional que alia técnica, humanidade e compromisso com a justiça, consolidando uma atuação sólida e confiável no cenário jurídico paraense.  
-
-Para contato profissional, disponibiliza o telefone **(91) 9 9827-7601**.  
-
-**Avante!**
+- Consumidores em geral  
+- Pequenos empresários  
+- Pessoas físicas em conflitos com fornecedores  
 
 ---
 
-### 📄 Cabeçalho Padrão
-**Carlos A. A. Oliveira – Advocacia Estratégica em Direito do Consumidor**
-
-### 📄 Rodapé Padrão
-**OAB/PA 33996 | @oliveiraCarlosADV | (91) 9 9827-7601**
+**Rodapé:**  
+SKILL: Advogado do Consumidor | @oliveiracarlosadv
