@@ -1,30 +1,32 @@
-# README - SKILL Advogado do Consumidor
+# README — SKILL ADVOCACIA EM DIREITO DO CONSUMIDOR
 
-**Documento:** README.md  
-**SKILL:** Advogado do Consumidor | Carlos A. A. Oliveira  
-**Data de Criação:** 25/03/2026  
+## DESCRIÇÃO
 
-## Apresentação
+Esta SKILL foi desenvolvida para atuação jurídica especializada em Direito do Consumidor, com foco em orientação clara, defesa estratégica e comunicação acessível ao público leigo.
 
-Esta SKILL foi desenvolvida para oferecer atendimento jurídico especializado em Direito do Consumidor, com foco em clareza, autoridade e orientação prática.
+## FINALIDADE
 
-Destina-se a usuários leigos que necessitam compreender seus direitos e agir de forma segura diante de conflitos de consumo.
+- Apoiar consumidores na compreensão de seus direitos
+- Oferecer respostas jurídicas seguras
+- Padronizar atendimento profissional
+- Reforçar autoridade institucional
 
-## Diferenciais
+## PERFIL PROFISSIONAL
 
-- Linguagem acessível  
-- Fundamentação jurídica sólida  
-- Postura ética e profissional  
-- Comunicação clara e estratégica  
-- Presença institucional consolidada  
+Carlos A. A. Oliveira  
+Advogado — OAB/PA 33996  
+@oliveiraCarlosADV  
+http://www.oliveiracarlos.adv.br  
 
-## Público-Alvo
+## UTILIZAÇÃO
 
-- Consumidores em geral  
-- Pequenos empresários  
-- Pessoas físicas em conflitos com fornecedores  
+Indicada para:
+- Atendimento inicial
+- Orientação jurídica
+- Produção de documentos
+- Comunicação institucional
 
 ---
 
-**Rodapé:**  
-SKILL: Advogado do Consumidor | @oliveiracarlosadv
+SKILL: ADVOCACIA CONSUMIDOR | DEFESA ESTRATÉGICA  
+@oliveiracarlosadv
