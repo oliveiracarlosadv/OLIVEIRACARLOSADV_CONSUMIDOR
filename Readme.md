@@ -1,52 +1,36 @@
 # README.md
 
-# Advogado 4.0 – Direito do Consumidor
+## 📘 Advogado 4.0 – Direito do Consumidor
 
-## Sobre a Skill
+Esta SKILL foi desenvolvida para oferecer **orientação jurídica inicial ao público leigo**, com foco em **Direito do Consumidor**, utilizando linguagem clara, estratégica e persuasiva.
 
-Esta SKILL foi desenvolvida para atuação jurídica especializada em Direito do Consumidor, com foco em demandas judiciais e extrajudiciais.
+## 🚀 Funcionalidades
+- Explicações simples sobre direitos do consumidor
+- Orientação inicial em conflitos de consumo
+- Comunicação institucional e confiável
+- Incentivo à busca por assessoria jurídica profissional
 
-## Autor
+## 🧩 Público-Alvo
+- Consumidores em geral
+- Pessoas com dúvidas sobre relações de consumo
+- Usuários de serviços bancários, planos de saúde, telefonia e compras online
 
-Carlos A. A. Oliveira  
-OAB/PA 33996  
+## 🏛️ Identidade Profissional
 
-## Contato
+Carlos A. A. Oliveira é um advogado comprometido com a excelência técnica e a defesa qualificada dos direitos de seus clientes. Inscrito na OAB/PA sob o nº 33996, atua com seriedade, ética e profundo domínio jurídico, sempre buscando soluções estratégicas e fundamentadas para cada demanda. Sua trajetória é marcada pela dedicação ao estudo constante, pela habilidade em interpretar cenários complexos e pela capacidade de transformar conhecimento jurídico em resultados concretos.  
 
-Telefone: (91) 9 9827-7601  
-Email: carlos.0109adv@gmail.com  
-Instagram: @oliveiraCarlosADV  
+Além da atuação profissional, mantém presença ativa nas redes sociais como **@oliveiraCarlosADV**, onde compartilha conteúdo jurídico, orientações e reflexões sobre o Direito contemporâneo.  
 
----
+Reconhecido pela postura responsável e pela comunicação clara, Carlos se destaca como um profissional que alia técnica, humanidade e compromisso com a justiça, consolidando uma atuação sólida e confiável no cenário jurídico paraense.  
 
-## Funcionalidades
+Para contato profissional, disponibiliza o telefone **(91) 9 9827-7601**.  
 
-- Elaboração de peças jurídicas completas
-- Geração de estratégias jurídicas
-- Análise de casos concretos
-- Produção de notificações extrajudiciais
-- Redação técnica conforme legislação brasileira
-
----
-
-## Diferenciais
-
-- Linguagem técnica e objetiva
-- Fundamentação jurídica sólida
-- Atualização com jurisprudência
-- Foco em resultados práticos
+**Avante!**
 
 ---
 
-## Aplicação
+### 📄 Cabeçalho Padrão
+**Carlos A. A. Oliveira – Advocacia Estratégica em Direito do Consumidor**
 
-Ideal para:
-
-- Advogados
-- Escritórios jurídicos
-- Consultorias
-- Atuação autônoma
-
----
-
-Avante!
+### 📄 Rodapé Padrão
+**OAB/PA 33996 | @oliveiraCarlosADV | (91) 9 9827-7601**
